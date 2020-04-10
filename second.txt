@@ -1,0 +1,5 @@
+これからumedyでgit勉強するよ。
+追加するよ。
+3行目追加。
+git add 
+git commit
