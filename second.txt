@@ -3,3 +3,4 @@
 3行目追加。
 git add 
 git commit
+git checkout -b update-readme
